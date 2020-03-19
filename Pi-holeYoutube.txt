@@ -1,0 +1,9 @@
+# Youtybe
+
+
+yt3.ggpht.com
+(.*?).ggpht.(.*?)
+i.ytimg.com
+(.*?).ytimg.(.*?)
+tpc.googlesyndication.com
+(.*?).googlesyndication.(.*?)
