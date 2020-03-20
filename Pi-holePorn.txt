@@ -1,20 +1,24 @@
 # Basic porn list
 
+(.*?)tube(.*?)sex(.*?)\.
+(.*?)gangbang(.*?)\.
+(.*?)anal(.*?)\.
+(.*?)milf(.*?)\.
 (.*?)porn(.*?)\.
-redtube.com
 (.*?)\.redtube\.(.*?)
-xhamster.com
+(.*?)redtube(.*?)\.
 (.*?)\.xhamster\.(.*?)
-spankbang.pl
+(.*?)xhamster(.*?)\.
 (.*?)\.spankbang\.(.*?)
-xvideos.com
+(.*?)spankbang(.*?)\.
 (.*?)\.xvideos\.(.*?)
-tybito.com
+(.*?)xvideos(.*?)\.
 (.*?)\.tybito\.(.*?)
+(.*?)tybito(.*?)\.
+youjizz.com
 anybunny.tv
 sexualfire.org
 showup.tv
-redtube.net.pl
 houstonlimos.info
 screw-my-wife.com
 
