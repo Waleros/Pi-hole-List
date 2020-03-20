@@ -2,17 +2,17 @@
 
 
 pornhub.com
-(.*?).pornhub.(.*?)
+(.*?)\.pornhub\.(.*?)
 redtube.com
-(.*?).redtube.(.*?)
+(.*?)\.redtube\.(.*?)
 xhamster.com
-(.*?).xhamster.(.*?)
+(.*?)\.xhamster\.(.*?)
 eporner.pl
-(.*?).eporner.(.*?)
+(.*?)\.eporner\.(.*?)
 spankbang.pl
-(.*?).spankbang.(.*?)
+(.*?)\.spankbang\.(.*?)
 tybito.com
-(.*?).tybito.(.*?)
+(.*?)\.tybito\.(.*?)
 
 
 anybunny.tv
