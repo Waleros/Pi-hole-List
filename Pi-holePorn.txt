@@ -13,7 +13,7 @@ spankbang.pl
 (.*?)\.spankbang\.(.*?)
 tybito.com
 (.*?)\.tybito\.(.*?)
-
+(.*?)porn(.*?)\.
 
 anybunny.tv
 sexualfire.org
